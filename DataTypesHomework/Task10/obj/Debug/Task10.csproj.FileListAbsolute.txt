@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\SoftIntelectPartTwo\DataTypesHomework\Task10\bin\Debug\Task10.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\SoftIntelectPartTwo\DataTypesHomework\Task10\bin\Debug\Task10.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\SoftIntelectPartTwo\DataTypesHomework\Task10\bin\Debug\Task10.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\SoftIntelectPartTwo\DataTypesHomework\Task10\obj\Debug\Task10.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\SoftIntelectPartTwo\DataTypesHomework\Task10\obj\Debug\Task10.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\SoftIntelectPartTwo\DataTypesHomework\Task10\obj\Debug\Task10.csprojResolveAssemblyReference.cache
