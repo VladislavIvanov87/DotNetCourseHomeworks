@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\SoftIntelectPartTwo\ConditionsHomework\Cards\bin\Debug\Cards.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\SoftIntelectPartTwo\ConditionsHomework\Cards\bin\Debug\Cards.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\SoftIntelectPartTwo\ConditionsHomework\Cards\bin\Debug\Cards.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\SoftIntelectPartTwo\ConditionsHomework\Cards\obj\Debug\Task3.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\SoftIntelectPartTwo\ConditionsHomework\Cards\obj\Debug\Cards.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\SoftIntelectPartTwo\ConditionsHomework\Cards\obj\Debug\Cards.pdb
