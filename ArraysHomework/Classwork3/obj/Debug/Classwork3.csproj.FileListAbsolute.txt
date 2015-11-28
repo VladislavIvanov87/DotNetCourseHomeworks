@@ -1,0 +1,10 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\SoftIntelectPartTwo\ArraysHomework\Classwork3\bin\Debug\Classwork3.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\SoftIntelectPartTwo\ArraysHomework\Classwork3\bin\Debug\Classwork3.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\SoftIntelectPartTwo\ArraysHomework\Classwork3\bin\Debug\Classwork3.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\SoftIntelectPartTwo\ArraysHomework\Classwork3\obj\Debug\Classwork3.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\SoftIntelectPartTwo\ArraysHomework\Classwork3\obj\Debug\Classwork3.pdb
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\ArraysHomework\Classwork3\bin\Debug\Classwork3.exe.config
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\ArraysHomework\Classwork3\obj\Debug\Classwork3.exe
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\ArraysHomework\Classwork3\obj\Debug\Classwork3.pdb
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\ArraysHomework\Classwork3\bin\Debug\Classwork3.exe
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\ArraysHomework\Classwork3\bin\Debug\Classwork3.pdb

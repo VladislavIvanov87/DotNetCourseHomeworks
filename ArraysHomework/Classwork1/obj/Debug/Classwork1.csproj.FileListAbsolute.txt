@@ -1,0 +1,12 @@
+c:\users\vlado\documents\visual studio 2013\SoftIntelectPartTwo\ArraysHomework\Classwork1\bin\Debug\Classwork1.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\SoftIntelectPartTwo\ArraysHomework\Classwork1\bin\Debug\Classwork1.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\SoftIntelectPartTwo\ArraysHomework\Classwork1\bin\Debug\Classwork1.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\SoftIntelectPartTwo\ArraysHomework\Classwork1\obj\Debug\Classwork1.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\SoftIntelectPartTwo\ArraysHomework\Classwork1\obj\Debug\Classwork1.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\SoftIntelectPartTwo\ArraysHomework\Classwork1\obj\Debug\Classwork1.pdb
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\ArraysHomework\Classwork1\bin\Debug\Classwork1.exe.config
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\ArraysHomework\Classwork1\obj\Debug\Classwork1.exe
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\ArraysHomework\Classwork1\obj\Debug\Classwork1.pdb
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\ArraysHomework\Classwork1\bin\Debug\Classwork1.exe
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\ArraysHomework\Classwork1\bin\Debug\Classwork1.pdb
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\ArraysHomework\Classwork1\obj\Debug\Classwork1.csprojResolveAssemblyReference.cache

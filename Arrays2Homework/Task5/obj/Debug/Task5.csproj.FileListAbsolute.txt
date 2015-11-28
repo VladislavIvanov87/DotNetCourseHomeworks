@@ -1,0 +1,12 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\SoftIntelectPartTwo\Arrays2Homework\Task5\bin\Debug\Task5.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\SoftIntelectPartTwo\Arrays2Homework\Task5\bin\Debug\Task5.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\SoftIntelectPartTwo\Arrays2Homework\Task5\bin\Debug\Task5.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\SoftIntelectPartTwo\Arrays2Homework\Task5\obj\Debug\Task5.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\SoftIntelectPartTwo\Arrays2Homework\Task5\obj\Debug\Task5.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\SoftIntelectPartTwo\Arrays2Homework\Task5\obj\Debug\Task5.pdb
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\Arrays2Homework\Task5\bin\Debug\Task5.exe.config
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\Arrays2Homework\Task5\obj\Debug\Task5.exe
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\Arrays2Homework\Task5\obj\Debug\Task5.pdb
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\Arrays2Homework\Task5\bin\Debug\Task5.exe
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\Arrays2Homework\Task5\bin\Debug\Task5.pdb
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\Arrays2Homework\Task5\obj\Debug\Task5.csprojResolveAssemblyReference.cache
