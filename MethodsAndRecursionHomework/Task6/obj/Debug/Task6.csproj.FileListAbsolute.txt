@@ -1,0 +1,9 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\SoftIntelectPartTwo\MethodsAndRecursionHomework\Task6\bin\Debug\Task6.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\SoftIntelectPartTwo\MethodsAndRecursionHomework\Task6\bin\Debug\Task6.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\SoftIntelectPartTwo\MethodsAndRecursionHomework\Task6\bin\Debug\Task6.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\SoftIntelectPartTwo\MethodsAndRecursionHomework\Task6\obj\Debug\Task6.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2013\SoftIntelectPartTwo\MethodsAndRecursionHomework\Task6\obj\Debug\Task6.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\SoftIntelectPartTwo\MethodsAndRecursionHomework\Task6\obj\Debug\Task6.pdb
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\MethodsAndRecursionHomework\Task6\bin\Debug\Task6.exe.config
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\MethodsAndRecursionHomework\Task6\obj\Debug\Task6.exe
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\MethodsAndRecursionHomework\Task6\obj\Debug\Task6.pdb

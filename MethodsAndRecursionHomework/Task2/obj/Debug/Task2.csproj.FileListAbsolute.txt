@@ -1,0 +1,8 @@
+C:\Users\Vlado\Documents\Visual Studio 2013\SoftIntelectPartTwo\MethodsAndRecursionHomework\Task2\bin\Debug\Task2.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2013\SoftIntelectPartTwo\MethodsAndRecursionHomework\Task2\bin\Debug\Task2.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\SoftIntelectPartTwo\MethodsAndRecursionHomework\Task2\bin\Debug\Task2.pdb
+C:\Users\Vlado\Documents\Visual Studio 2013\SoftIntelectPartTwo\MethodsAndRecursionHomework\Task2\obj\Debug\Task2.exe
+C:\Users\Vlado\Documents\Visual Studio 2013\SoftIntelectPartTwo\MethodsAndRecursionHomework\Task2\obj\Debug\Task2.pdb
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\MethodsAndRecursionHomework\Task2\bin\Debug\Task2.exe.config
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\MethodsAndRecursionHomework\Task2\obj\Debug\Task2.exe
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\MethodsAndRecursionHomework\Task2\obj\Debug\Task2.pdb
