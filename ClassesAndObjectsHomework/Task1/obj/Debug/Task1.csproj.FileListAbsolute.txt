@@ -7,3 +7,6 @@ c:\users\vlado\documents\visual studio 2015\SoftIntellect2\ClassesAndObjectsHome
 C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\ClassesAndObjectsHomework\Task1\bin\Debug\Task1.exe.config
 C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\ClassesAndObjectsHomework\Task1\obj\Debug\Task1.exe
 C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\ClassesAndObjectsHomework\Task1\obj\Debug\Task1.pdb
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\ClassesAndObjectsHomework\Task1\bin\Debug\Task1.exe
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\ClassesAndObjectsHomework\Task1\bin\Debug\Task1.pdb
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\ClassesAndObjectsHomework\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
