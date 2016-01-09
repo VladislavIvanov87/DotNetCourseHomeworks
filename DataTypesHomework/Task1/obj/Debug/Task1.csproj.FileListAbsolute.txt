@@ -4,3 +4,6 @@ c:\users\vlado\documents\visual studio 2013\SoftIntelectPartTwo\DataTypesHomewor
 c:\users\vlado\documents\visual studio 2013\SoftIntelectPartTwo\DataTypesHomework\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
 c:\users\vlado\documents\visual studio 2013\SoftIntelectPartTwo\DataTypesHomework\Task1\obj\Debug\Task1.exe
 c:\users\vlado\documents\visual studio 2013\SoftIntelectPartTwo\DataTypesHomework\Task1\obj\Debug\Task1.pdb
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\DataTypesHomework\Task1\bin\Debug\Task1.exe.config
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\DataTypesHomework\Task1\obj\Debug\Task1.exe
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\DataTypesHomework\Task1\obj\Debug\Task1.pdb

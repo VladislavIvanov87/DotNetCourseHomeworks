@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2015\SoftIntellect2\StringsAndTextManipulationsHomework\Task5\bin\Debug\Task5.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2015\SoftIntellect2\StringsAndTextManipulationsHomework\Task5\bin\Debug\Task5.exe
+C:\Users\Vlado\Documents\Visual Studio 2015\SoftIntellect2\StringsAndTextManipulationsHomework\Task5\bin\Debug\Task5.pdb
+C:\Users\Vlado\Documents\Visual Studio 2015\SoftIntellect2\StringsAndTextManipulationsHomework\Task5\obj\Debug\Task5.exe
+C:\Users\Vlado\Documents\Visual Studio 2015\SoftIntellect2\StringsAndTextManipulationsHomework\Task5\obj\Debug\Task5.pdb
+C:\Users\Vlado\Documents\Visual Studio 2015\SoftIntellect2\StringsAndTextManipulationsHomework\Task5\obj\Debug\Task5.csprojResolveAssemblyReference.cache
