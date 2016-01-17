@@ -1,0 +1,6 @@
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\DataStructures1Homework\Task4\bin\Debug\Task4.exe.config
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\DataStructures1Homework\Task4\bin\Debug\Task4.exe
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\DataStructures1Homework\Task4\bin\Debug\Task4.pdb
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\DataStructures1Homework\Task4\obj\Debug\Task4.csprojResolveAssemblyReference.cache
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\DataStructures1Homework\Task4\obj\Debug\Task4.exe
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\DataStructures1Homework\Task4\obj\Debug\Task4.pdb

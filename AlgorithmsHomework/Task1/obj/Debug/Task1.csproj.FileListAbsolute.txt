@@ -1,0 +1,6 @@
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\AlgorithmsHomework\Task1\bin\Debug\Task1.exe.config
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\AlgorithmsHomework\Task1\bin\Debug\Task1.exe
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\AlgorithmsHomework\Task1\bin\Debug\Task1.pdb
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\AlgorithmsHomework\Task1\obj\Debug\Task1.exe
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\AlgorithmsHomework\Task1\obj\Debug\Task1.pdb
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\AlgorithmsHomework\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
