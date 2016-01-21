@@ -1,0 +1,6 @@
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\ExceptionsHandlingHomework\ClassworkTask\bin\Debug\ClassworkTask.exe.config
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\ExceptionsHandlingHomework\ClassworkTask\bin\Debug\ClassworkTask.exe
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\ExceptionsHandlingHomework\ClassworkTask\bin\Debug\ClassworkTask.pdb
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\ExceptionsHandlingHomework\ClassworkTask\obj\Debug\ClassworkTask.csprojResolveAssemblyReference.cache
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\ExceptionsHandlingHomework\ClassworkTask\obj\Debug\ClassworkTask.exe
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\ExceptionsHandlingHomework\ClassworkTask\obj\Debug\ClassworkTask.pdb

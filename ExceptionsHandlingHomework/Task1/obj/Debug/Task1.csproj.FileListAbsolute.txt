@@ -1,0 +1,5 @@
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\ExceptionsHandlingHomework\Task1\bin\Debug\Task1.exe.config
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\ExceptionsHandlingHomework\Task1\bin\Debug\Task1.exe
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\ExceptionsHandlingHomework\Task1\bin\Debug\Task1.pdb
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\ExceptionsHandlingHomework\Task1\obj\Debug\Task1.exe
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\ExceptionsHandlingHomework\Task1\obj\Debug\Task1.pdb
