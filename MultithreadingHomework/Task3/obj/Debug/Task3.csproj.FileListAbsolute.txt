@@ -1,0 +1,6 @@
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\MultithreadingHomework\Task3\bin\Debug\Task3.exe.config
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\MultithreadingHomework\Task3\bin\Debug\Task3.exe
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\MultithreadingHomework\Task3\bin\Debug\Task3.pdb
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\MultithreadingHomework\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\MultithreadingHomework\Task3\obj\Debug\Task3.exe
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\MultithreadingHomework\Task3\obj\Debug\Task3.pdb

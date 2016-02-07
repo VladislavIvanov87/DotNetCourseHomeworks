@@ -1,0 +1,9 @@
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\WindowsFormsHomework\UserInfo\bin\Debug\UserInfo.exe.config
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\WindowsFormsHomework\UserInfo\bin\Debug\UserInfo.exe
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\WindowsFormsHomework\UserInfo\bin\Debug\UserInfo.pdb
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\WindowsFormsHomework\UserInfo\obj\Debug\UserInfo.csprojResolveAssemblyReference.cache
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\WindowsFormsHomework\UserInfo\obj\Debug\UserInfo.Form1.resources
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\WindowsFormsHomework\UserInfo\obj\Debug\UserInfo.Properties.Resources.resources
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\WindowsFormsHomework\UserInfo\obj\Debug\UserInfo.csproj.GenerateResource.Cache
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\WindowsFormsHomework\UserInfo\obj\Debug\UserInfo.exe
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\WindowsFormsHomework\UserInfo\obj\Debug\UserInfo.pdb
