@@ -1,0 +1,40 @@
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\ExamVladislav\Countries\bin\roslyn\csc.exe
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\ExamVladislav\Countries\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\ExamVladislav\Countries\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\ExamVladislav\Countries\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\ExamVladislav\Countries\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\ExamVladislav\Countries\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\ExamVladislav\Countries\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\ExamVladislav\Countries\bin\roslyn\System.Collections.Immutable.dll
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\ExamVladislav\Countries\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\ExamVladislav\Countries\bin\roslyn\vbc.exe
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\ExamVladislav\Countries\bin\roslyn\VBCSCompiler.exe
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\ExamVladislav\Countries\bin\roslyn\VBCSCompiler.exe.config
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\ExamVladislav\Countries\bin\Countries.dll.config
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\ExamVladislav\Countries\bin\Countries.dll
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\ExamVladislav\Countries\bin\Countries.pdb
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\ExamVladislav\Countries\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\ExamVladislav\Countries\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\ExamVladislav\Countries\obj\Debug\Countries.csprojResolveAssemblyReference.cache
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\ExamVladislav\Countries\obj\Debug\Countries.dll
+c:\users\vlado\documents\visual studio 2015\SoftIntellect2\ExamVladislav\Countries\obj\Debug\Countries.pdb
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\ExamVladislav\Countries\bin\roslyn\csc.exe
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\ExamVladislav\Countries\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\ExamVladislav\Countries\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\ExamVladislav\Countries\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\ExamVladislav\Countries\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\ExamVladislav\Countries\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\ExamVladislav\Countries\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\ExamVladislav\Countries\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\ExamVladislav\Countries\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\ExamVladislav\Countries\bin\roslyn\vbc.exe
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\ExamVladislav\Countries\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\ExamVladislav\Countries\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\ExamVladislav\Countries\bin\Countries.dll.config
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\ExamVladislav\Countries\bin\Countries.dll
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\ExamVladislav\Countries\bin\Countries.pdb
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\ExamVladislav\Countries\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\ExamVladislav\Countries\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\ExamVladislav\Countries\obj\Debug\Countries.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\ExamVladislav\Countries\obj\Debug\Countries.dll
+C:\Users\Vlado\Desktop\SIPartTwo\DotNetCourseHomeworks\ExamVladislav\Countries\obj\Debug\Countries.pdb
